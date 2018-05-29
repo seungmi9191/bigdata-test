@@ -43,5 +43,5 @@ for i in list_s :
 sort_list = sorted(str)
 
 for i in sorted(str) :
-    print(i, ":" , str[i])
+    print(i.upper(), ":", str[i])
 
